@@ -1,32 +1,32 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
+name: "Samarth Vanvi"
+title: "Samarth Vanvi Blog"
+description: "A place to get info about all of it"
 meta_description: "Jekyll theme for blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'wowthemesnet@gmail.com'
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+email: 'admin@samarthvanvi.in'
+google_analytics: 'UA-166853210-1'
+disqus: 'Samarth Blog'
+sharethis: '<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5ebfb40c34ee1a00128dc65f&product=inline-share-buttons' async='async'></script>'
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  samarth:
+    name: Samarth Vanvi
+    display_name: Samarth Vanvi
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+    email: i18vanvis@iimidr.ac.in
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+  phani:
+    name: Phani Ramadevu
+    display_name: Phani Ramadevu
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+    email: i18phanir@iimidr.ac.in
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
