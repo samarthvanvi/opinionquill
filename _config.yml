@@ -10,7 +10,7 @@ baseurl: '/'
 email: 'admin@samarthvanvi.in'
 google_analytics: 'UA-166853210-1'
 disqus: 'Samarth Blog'
-sharethis: '<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5ebfb40c34ee1a00128dc65f&product=inline-share-buttons' async='async'></script>'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5ebfb40c34ee1a00128dc65f&product=inline-share-buttons" async="async"></script>'
 
 # Authors
 authors:
