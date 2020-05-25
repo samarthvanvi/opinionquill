@@ -1,13 +1,13 @@
 # Site
-name: "Samarth Vanvi"
-title: "Samarth Vanvi Blog"
-description: "A place to get info about all of it"
-meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/logo.png'
+name: "Opinion Quill"
+title: "Opinion Quill"
+description: "Opinion Quill is an all-in-one Opinion writing, Question-Answer based and Debate Platform for anybody"
+meta_description: "Opinion Quill is an all-in-one Opinion writing, Question-Answer based and Debate Platform for anybody"
+logo: 'assets/images/logo_transparent.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'admin@samarthvanvi.in'
+email: 'samarth@opinionquill.co.in'
 google_analytics: 'UA-166853210-1'
 disqus: 'samarthvanvi-in'
 sharethis: '<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5ebfb40c34ee1a00128dc65f&product=inline-share-buttons" async="async"></script>'
@@ -19,9 +19,9 @@ authors:
     display_name: Samarth Vanvi
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: i18vanvis@iimidr.ac.in
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    web: https://samarthvanvi.in
+    twitter: 
+    description: "Samarth Vanvi is an investor in the Indian Stock Market. He is the Founder and Executive head of Vanvi Brokerage Firm. This website is a reflection of his personal and professional pursuits. Samarth is currently pursuing MBA from IIM Indore. In addition to his affinity in Equity and Derivatives Market, he also is very interested in Weaponology and Military History as reflected from his articles."
   phani:
     name: Phani Ramadevu
     display_name: Phani Ramadevu
