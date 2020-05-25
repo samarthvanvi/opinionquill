@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+comments: false
+---
+
 ## Privacy Policy for Opinion Quill
 At Opinion Quill, accessible from https://opinionquil.co.in, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Opinion Quill and how we use it.
 
