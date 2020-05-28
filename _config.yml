@@ -20,16 +20,24 @@ authors:
     gravatar: 58db503dd2876369b971f0acdda5b715
     email: i18vanvis@iimidr.ac.in
     web: https://samarthvanvi.in
-    twitter: 
+    twitter: https://instagram.com/omnia_strenius?igshid=xsh7bi2ttwxm
     description: "Samarth Vanvi is an investor in the Indian Stock Market. He is the Founder and Executive head of Vanvi Brokerage Firm. This website is a reflection of his personal and professional pursuits. Samarth is currently pursuing MBA from IIM Indore. In addition to his affinity in Equity and Derivatives Market, he also is very interested in Weaponology and Military History as reflected from his articles."
   phani:
     name: Phani Ramadevu
     display_name: Phani Ramadevu
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    gravatar: 6800c120283f2b2999dffc52a6fae06b
     email: i18phanir@iimidr.ac.in
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    web: https://instagram.com/phani_ramadevu?igshid=yyotvkso7med
+    twitter: https://instagram.com/phani_ramadevu?igshid=yyotvkso7med
     description: "Phani Ramadevu is an undergraduate student at IIM Indore currently pursuing management, but this is no obstruction to his interest in physics and mathematics which he continues to study as an enthusiast."
+  joshua:
+    name: Joshua Victor
+    display_name: Joshua Victor
+    gravatar: f233c88c91ac5b2d493dc4a12c5a2b11
+    email: i18joshuav@iimidr.ac.in
+    web: https://instagram.com/re.entra.idhi?igshid=15m2mwvmpyrdq
+    twitter: https://instagram.com/re.entra.idhi?igshid=15m2mwvmpyrdq
+    description: "Joshua Victor is a 20-year-old brother who believes his super power is being invisible in really dark places and spaces. He is currently a student of management in IIM Indore, and a student of strategically or maybe randomly spaced slants and objects in the world."
 
 # Plugins
 plugins: 
