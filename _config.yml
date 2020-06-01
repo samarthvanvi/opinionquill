@@ -38,6 +38,14 @@ authors:
     web: https://instagram.com/re.entra.idhi?igshid=15m2mwvmpyrdq
     twitter: https://instagram.com/re.entra.idhi?igshid=15m2mwvmpyrdq
     description: "Joshua Victor is a 20-year-old brother who believes his super power is being invisible in really dark places and spaces. He is currently a student of management in IIM Indore, and a student of strategically or maybe randomly spaced slants and objects in the world."
+  rohan:
+    name: Rohan Dwivedi
+    display_name: Rohan Dwivedi
+    gravatar: f443d2fe9b97ea7ee963b8b8c5312499
+    email: i18rohand@iimidr.ac.in
+    web: https://www.instagram.com/rohan.dwivedi_/?igshid=16h2v4f8ab1hz
+    twitter: https://www.instagram.com/rohan.dwivedi_/?igshid=16h2v4f8ab1hz
+    description: "Rohan was too lazy to write an introduction for himself, so Samarth wrote one for him. When asked whether he was cool with going meta on this intro, he said &quot;whatever&quot;. He prefers to have his articles open a window into his thoughts and ideas rather than an introduction."
 
 # Plugins
 plugins: 
