@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Title: 'Economics, Pandemics, and Ideologies'
 Author: Phani
 Published: true
@@ -121,6 +121,3 @@ But will we silence these critics and dismiss their claims? No. We shall debate 
 > "Remember Red, Hope is a good thing, maybe the best of things."
 
 ~Andy, Shawshank Redemption,1994
-
-
-
