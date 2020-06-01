@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Title: A Word That Conquered The World
 Published: true
 author: joshua
