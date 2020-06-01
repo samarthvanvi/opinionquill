@@ -1,10 +1,10 @@
 ---
 published: true
 Title: 'Economics, Pandemics, and Ideologies'
-Author: Phani
+Author: rohan
 Published: true
 Layout: post
-author: phani
+author: rohan
 layout: post
 image: assets/images/EcoPanIde.jpg
 ---
