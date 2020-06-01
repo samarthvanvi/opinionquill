@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Title: The Unco Case Of Human Memory
 Author: Phani
 Published: true
